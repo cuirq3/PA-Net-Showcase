@@ -15,3 +15,11 @@
 <p align="center">
   <img src="https://github.com/cuirq3/PA-Net-Showcase/blob/main/images/Scene_showcase.png">
 </p>
+
+## Comparison with Depth Estimation
+<p align="center">
+  <img src="https://github.com/cuirq3/PA-Net-Showcase/blob/main/images/Comparison_w_depth.jpg">
+</p>
+<p align="center">
+  <img src="https://github.com/cuirq3/PA-Net-Showcase/blob/main/images/Comparison_w_depth2.jpg">
+</p>
